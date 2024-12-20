@@ -5,10 +5,10 @@ export default function SignUp() {
         <h1>Sign Up</h1>
       </div>
       <div>
+      {/* Sign up form */}
         <p>Create a new account</p>
         <input></input>
       </div>
-      {/* Sign up form */}
     </div>
   );
 }
